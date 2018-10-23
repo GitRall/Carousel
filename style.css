@@ -41,6 +41,7 @@
 .icon-btn{
   font-size: 40px;
   color: #fff9f6;
+  cursor: pointer;
 }
 /* ---Slide Indicators--- */
 .slide-indicators{

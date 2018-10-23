@@ -2,8 +2,8 @@
 var myInterval = setInterval(mySlider, 5000); /*---Starting slider---*/
 var slideContainer = document.querySelector('.slide-items');
 var slideImgArr = document.querySelectorAll('.slide-img');
-var prevButton = document.querySelector('.icon-btn-prev');
-var nextButton = document.querySelector('.icon-btn-next');
+var prevButton = document.querySelector('.prev-btn');
+var nextButton = document.querySelector('.next-btn');
 var controlButtons = document.querySelectorAll('.control-btn');
 var indicatorItems = document.querySelectorAll('.indicator-item');
 var count = 0;
